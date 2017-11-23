@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="four_units_margin">4dp</dimen>
+    <dimen name="def_margin">8dp</dimen>
+    <dimen name="msg_layout_end_margin">32dp</dimen>
+</resources>
